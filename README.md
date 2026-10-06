@@ -1,0 +1,2 @@
+# econstudy
+Exploring macroeconomic variables
